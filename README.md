@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://xnu.app/veilpath/">Website</a> ·
+  <a href="https://discord.gg/eGzEaP6TzR">Discord</a> ·
   <a href="#compatibility">Compatibility</a> ·
   <a href="#building">Build</a> ·
   <a href="#acknowledgements">Acknowledgements</a>
@@ -198,6 +199,9 @@ The low-level container-query approach in Veilpath is derived from that work.
 Please credit and support the upstream project when reusing or extending it.
 
 ## Licensing status
+
+See [`LICENSING.md`](LICENSING.md) for the exact file boundary, release checklist,
+and a ready-to-send upstream clarification request.
 
 The upstream `bad_query` repository does not currently declare an open-source
 license. Consequently, the derived files under `Veilpath/BadQuery/` are **not**

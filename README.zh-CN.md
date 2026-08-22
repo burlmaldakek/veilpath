@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://xnu.app/veilpath/">网站</a> ·
+  <a href="https://discord.gg/eGzEaP6TzR">Discord</a> ·
   <a href="#兼容性">兼容性</a> ·
   <a href="#构建">构建</a> ·
   <a href="#致谢">致谢</a>
@@ -171,6 +172,9 @@ Veilpath 的底层容器查询方式源自该项目。复用或扩展相关实�
 上游项目。
 
 ## 许可状态
+
+具体文件边界、发布检查清单和可直接发送给上游作者的许可询问信，见
+[`LICENSING.md`](LICENSING.md)。
 
 上游 `bad_query` 仓库目前没有声明开源许可证。因此，
 `Veilpath/BadQuery/` 下的衍生文件**不会**自动获得宽松许可证的授权，
