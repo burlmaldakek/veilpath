@@ -1,0 +1,8 @@
+name: Test Xcode 27
+on: workflow_dispatch:
+jobs: test: runs-on: xcode-27
+steps:
+  - name: Check Xcode
+    run: |
+      xcodebuild -version
+      xcode-select -p
